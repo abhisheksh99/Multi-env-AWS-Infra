@@ -1,0 +1,9 @@
+rootkey.csv
+admin_abhishek_credentials.csv
+terraform.tfvars
+terraform.tfstate
+.terraform
+.terraform.lock.hcl
+terraform.exe
+terraform.tfstate.backup
+*.ppk
